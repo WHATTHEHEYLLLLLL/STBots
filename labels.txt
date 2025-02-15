@@ -1,0 +1,4 @@
+0 Fruta Fresca
+1 Fruta Podrida
+2 Vegetal Fresco
+3 Vegetal Podrido
